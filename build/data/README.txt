@@ -1,0 +1,1 @@
+The /data folder must exist in the game directory for the saving functionality to work properly.
