@@ -172,8 +172,8 @@ NPC_DIALOGUE_END
 MAP_NEXT_NPC
 25 14 2
 res/npcsprite/npcSprite8.png
-Apparently you have a 20% chance of being healed after each room.
-But don't take it for granted. It is best to preserve your Pokemon's health still.
+Your Pokemon is healed after every battle, so don't hesitate to go all out!
+Though remember to press the healing button before entering the next room.
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
 6 17 1
@@ -189,7 +189,7 @@ MAP_NEXT_NPC
 res/npcsprite/npcSprite5.png
 Oh hey. Small talk here.
 The university ran out of money.
-Therefore they decided to convert the upper floors into an augmented reality arena for Pokemon battling.
+Therefore they decided to convert the upper floors into a mixed reality arena for Pokemon battling.
 Kind of a weird way to generate income. But hey if it works then it works.
 Though I'm not sure if the money mostly comes from public sales or increasing students' "HOC LAI" fee.
 NPC_DIALOGUE_END
