@@ -1,7 +1,7 @@
 # Pokemon-Demo
 ## Control:
   - WASD: move
-  - Z: run
+  - Hold Z to run
   - Press "B" to battle (Can only battle once)
   - Press "X" to talk to NPC
 ## Bug:
