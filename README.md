@@ -2,8 +2,8 @@
 ## Control:
   - WASD: move
   - Hold "Z" to run
-  - Press "N" to battle (Can only battle once)
   - Press "X" to talk to NPC
+  - Press "V" to open menu
 ## Bug:
 ### Contact
   - [LamNDL](https://fb.com/clumsyonce)
