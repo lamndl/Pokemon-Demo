@@ -1,9 +1,6 @@
 # Pokemon-Demo
 ## Control:
-  - WASD: move
-  - Hold "Z" to run
-  - Press "X" to talk to NPC
-  - Press "V" to open menu
+  ![image](https://user-images.githubusercontent.com/29592868/169836533-2acf0f4e-e4ed-427f-a0dc-019ef450bb6c.png)
 ## Bug:
 ### Contact
   - [LamNDL](https://fb.com/clumsyonce)
