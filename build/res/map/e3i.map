@@ -76,44 +76,44 @@ END_COLLISION_MAP
 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 END_OVERLAY_MAP
 MAP_NEXT_NPC
-14 9 0
+14 9 0 0
 res/npcsprite/npcSprite4.png
 Ahhh stop right there student!
 You see, there are students doing the Informatics Olympics upstairs.
 For the integrity of the competition, you must remain downstairs for the time being.
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-27 10 0
-res/npcsprite/npcSprite1.png
+27 10 0 0
+res/npcsprite/npcSprite10.png
 In the real world, this is the "Phong Cong Tac Sinh Vien".
 But here in this game, this is where you go and assemble your Pokemon party.
 And unlike the real world, there is zero fees for doing all of this.
 Get ratio'd.
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-41 9 0
-res/npcsprite/npcSprite4.png
+37 10 0 0
+res/npcsprite/npcSprite12.png
 This room here, in the real world, is the "Phong Dao Tao".
 In this game, this is supposed to be where you can teach your Pokemon moves.
-Unfortunately as other students have been abusing this room for illegal stuff, we had to close down.
+Unfortunately as other students have been abusing this room for illegal stuff, we stopped providing the service.
 If only we had enough time to implement a "CAM THI" mechanism.
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-9 14 2
+9 14 2 0
 res/npcsprite/npcSprite5.png
 Hi. Me and my buddies are working on our graduation thesis.
 As you can see here, we are working on an advanced solution for efficient 4D compressing.
 Technologies in 2069 is wild.
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-11 12 3
+11 12 3 0
 res/npcsprite/npcSprite7.png
 I'm overseeing these student's graduation thesis.
 4D technology is super important in this generation.
 What I am doing here today carry exceptional importance in humanity's history.
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-8 13 1
+8 13 1 0
 res/npcsprite/npcSprite5.png
 Pokemon battling?
 I tried it out a few years ago during my freshmen.
@@ -124,7 +124,7 @@ And definitely not worth converting an entire auditorium into a battle arena.
 Good thing I stuck with the good old CN42 Applied 4D Calculus!
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-24 15 3
+24 15 3 0
 res/npcsprite/npcSprite3.png
 I went over there to ask those people about Pokemon battling...
 But they all pushed me away saying stuff about technologies on top and screw Pokemans.
@@ -135,6 +135,10 @@ WARP_NEXT_TILE
 29 18 1 20 10
 WARP_NEXT_TILE
 30 18 1 20 10
+WARP_NEXT_TILE
+31 8 4 13 22
+WARP_NEXT_TILE
+41 8 4 25 22
 WARP_DATA_STOP
 INTER_NEXT_TILE
 18 8

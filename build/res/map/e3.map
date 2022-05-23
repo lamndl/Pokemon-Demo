@@ -67,16 +67,24 @@ END_MAP
 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
 END_COLLISION_MAP
 MAP_NEXT_NPC
-10 18 1
+10 18 1 0
 res/npcsprite/npcSprite4.png
 Sorry kid. The road to the rest of VNU is closed for now.
 Your access is limited to just the G2 and E3 buildings.
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-10 19 1
+10 19 1 0
 res/npcsprite/npcSprite7.png
 Do spare a thought for the young 3 developers of this game.
 Discrete Math, Calculus and General Physics swallowed them whole!
+NPC_DIALOGUE_END
+MAP_NEXT_NPC
+28 16 1 0
+res/npcsprite/npcSprite11.png
+This building here used to be the University of Business and Economics.
+But it has ceased to exist 30 years ago after AI fully and utterly obsoleted the business majors.
+Now all the aspiring business students are relegated to battling on cryptocurrency and NFTs markets.
+Powered by engineering students of course.
 NPC_DIALOGUE_END
 NPC_DATA_STOP
 WARP_NEXT_TILE

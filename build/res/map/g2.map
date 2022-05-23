@@ -79,7 +79,7 @@ END_MAP
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 END_COLLISION_MAP
 MAP_NEXT_NPC
-16 10 1
+16 10 1 0
 res/npcsprite/npcSprite2.png
 Stop right there kiddo!
 I know exactly what vicious crime you are planning to commit!
@@ -88,13 +88,13 @@ Well, not on my watch kiddo. You see, I have chained all of the vehicles solid h
 Have fun trying to steal them, thief! They are all MINE!
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-27 19 0
+27 19 0 0
 res/npcsprite/npcSprite3.png
 Hi I am a veteran Pokemon Trainer!
 But for some reason when I take the Pokemon UET Challenge I could hardly last 3 rooms.
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-19 22 2
+19 22 2 0
 res/npcsprite/npcSprite9.png
 Good morning there student!
 Just a reminder, the G2 building is the battle zone.
@@ -119,8 +119,51 @@ INTER_NEXT_TILE
 Sorry, but access to the rest of VNU is currently unavailable. -Pokemon UET Creators.
 INTER_DIALOGUE_END
 INTER_NEXT_TILE
+11 5
+Sorry, but access to the rest of VNU is currently unavailable. -Pokemon UET Creators.
+INTER_DIALOGUE_END
+INTER_NEXT_TILE
+11 32
+Sorry, but access to the rest of VNU is currently unavailable. -Pokemon UET Creators.
+INTER_DIALOGUE_END
+INTER_NEXT_TILE
 37 20
 G2 Building.
 This game's ultimate Pokemon battle zone!
+INTER_DIALOGUE_END
+INTER_NEXT_TILE
+40 19
+This boat shell here seems to be a failed graduation thesis project of a CN19 Ocean Technology student.
+Apparently he could not defend the refutal against the boat's exterior and building materials.
+And in his disappointment he decided to quit the school in favor of the military's marine division.
+Well that's a sad ending...
+INTER_DIALOGUE_END
+INTER_NEXT_TILE
+40 20
+This boat shell here seems to be a failed graduation thesis project of a CN19 Ocean Technology student.
+Apparently he could not defend the refutal against the boat's exterior and building materials.
+And in his disappointment he decided to quit the school in favor of the military's marine division.
+Well that's a sad ending...
+INTER_DIALOGUE_END
+INTER_NEXT_TILE
+41 20
+This boat shell here seems to be a failed graduation thesis project of a CN19 Ocean Technology student.
+Apparently he could not defend the refutal against the boat's exterior and building materials.
+And in his disappointment he decided to quit the school in favor of the military's marine division.
+Well that's a sad ending...
+INTER_DIALOGUE_END
+INTER_NEXT_TILE
+42 19
+This boat shell here seems to be a failed graduation thesis project of a CN19 Ocean Technology student.
+Apparently he could not defend the refutal against the boat's exterior and building materials.
+And in his disappointment he decided to quit the school in favor of the military's marine division.
+Well that's a sad ending...
+INTER_DIALOGUE_END
+INTER_NEXT_TILE
+42 20
+This boat shell here seems to be a failed graduation thesis project of a CN19 Ocean Technology student.
+Apparently he could not defend the refutal against the boat's exterior and building materials.
+And in his disappointment he decided to quit the school in favor of the military's marine division.
+Well that's a sad ending...
 INTER_DIALOGUE_END
 INTER_DATA_STOP

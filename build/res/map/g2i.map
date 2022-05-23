@@ -16,25 +16,25 @@
 0 0 0 0 0 0 14 14 14 14 14 12 12 12 12 13 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 20 21 21 21 21 14 14 14 14 14 0 0 0 0 0 0 0
 0 0 0 0 0 0 14 14 14 14 14 12 12 12 12 13 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 20 21 21 21 21 34 14 14 14 35 0 0 0 0 0 0 0
 0 0 0 0 0 0 14 14 14 14 14 12 12 12 12 36 37 14 14 14 38 1 1 1 1 1 1 1 1 1 1 1 1 1 1 37 14 14 14 38 39 21 21 21 21 34 14 14 14 40 0 0 0 0 0 0 0
-0 0 0 0 0 0 35 14 14 14 14 12 12 12 41 2 42 43 44 45 46 2 2 2 2 2 2 2 2 2 2 2 2 2 2 42 43 44 45 46 2 47 21 21 21 14 14 14 14 14 0 0 0 0 0 0 0
-0 0 0 0 0 0 40 14 14 14 14 12 12 41 2 2 42 43 44 45 46 2 2 2 2 2 2 2 2 2 2 2 2 2 2 42 43 44 45 46 2 2 47 21 21 14 14 14 14 14 0 0 0 0 0 0 0
-0 0 0 0 0 0 14 14 14 14 14 12 41 2 2 2 42 43 44 45 46 2 2 2 2 2 2 2 2 2 2 2 2 2 2 42 43 44 45 46 2 2 2 47 21 14 14 14 14 14 0 0 0 0 0 0 0
-0 0 0 0 0 0 14 14 14 14 14 41 2 2 2 2 48 49 50 51 52 2 53 2 2 2 2 2 2 2 2 2 2 54 2 48 49 50 51 52 2 2 2 2 47 14 14 14 14 14 0 0 0 0 0 0 0
-0 0 0 0 0 0 14 14 14 14 14 14 14 14 14 14 55 14 14 14 55 14 56 14 14 14 14 14 14 14 14 14 14 57 14 55 14 14 14 55 14 14 14 14 14 14 14 14 14 14 0 0 0 0 0 0 0
-0 0 0 0 0 0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 58 14 14 14 14 14 14 14 14 14 14 59 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 0 0 0 0 0 0 0
-0 0 0 0 0 0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 60 61 61 62 61 61 62 61 61 62 61 63 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 0 0 0 0 0 0 0
+0 0 0 0 0 0 41 14 14 14 14 12 12 12 42 2 43 44 45 46 47 2 2 2 2 2 2 2 2 2 2 2 2 2 2 43 44 45 46 47 2 48 21 21 21 14 14 14 14 14 0 0 0 0 0 0 0
+0 0 0 0 0 0 49 14 14 14 14 12 12 42 2 2 43 44 45 46 47 2 2 2 2 2 2 2 2 2 2 2 2 2 2 43 44 45 46 47 2 2 48 21 21 14 14 14 14 14 0 0 0 0 0 0 0
+0 0 0 0 0 0 14 14 14 14 14 12 42 2 2 2 43 44 45 46 47 2 2 2 2 2 2 2 2 2 2 2 2 2 2 43 44 45 46 47 2 2 2 48 21 14 14 14 14 14 0 0 0 0 0 0 0
+0 0 0 0 0 0 14 14 14 14 14 42 2 2 2 2 50 51 52 53 54 2 55 2 2 2 2 2 2 2 2 2 2 56 2 50 51 52 53 54 2 2 2 2 48 14 14 14 14 14 0 0 0 0 0 0 0
+0 0 0 0 0 0 14 14 14 14 14 14 14 14 14 14 57 14 14 14 57 14 58 14 14 14 14 14 14 14 14 14 14 59 14 57 14 14 14 57 14 14 14 14 14 14 14 14 14 14 0 0 0 0 0 0 0
+0 0 0 0 0 0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 60 14 14 14 14 14 14 14 14 14 14 61 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 0 0 0 0 0 0 0
+0 0 0 0 0 0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 62 63 63 64 63 63 64 63 63 64 63 65 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 0 0 0 0 0 0 0
 0 0 0 0 0 0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 0 0 0 0 0 0 0
 0 0 0 0 0 0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 0 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 0 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 35 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 35 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 40 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 40 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 66 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 67 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 49 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 68 0 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 0 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 0 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 14 14 14 14 64 65 66 67 14 14 68 66 66 67 14 14 14 14 14 14 14 14 64 66 66 67 14 14 64 66 65 67 14 14 14 14 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 69 70 14 14 71 71 71 71 71 71 71 71 71 71 14 14 14 72 73 14 14 14 71 71 71 71 71 71 71 71 71 71 14 14 70 69 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 14 14 14 14 69 70 71 72 14 14 73 71 71 72 14 14 14 14 14 14 14 14 69 71 71 72 14 14 69 71 70 72 14 14 14 14 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 74 75 14 14 76 76 76 76 76 76 76 76 76 76 14 14 14 77 78 14 14 14 76 76 76 76 76 76 76 76 76 76 14 14 75 74 0 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -130,21 +130,21 @@ END_COLLISION_MAP
 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 END_OVERLAY_MAP
 MAP_NEXT_NPC
-25 21 0
+25 21 0 0
 res/npcsprite/npcSprite6.png
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-25 22 0
+25 22 0 0
 res/npcsprite/npcSpriteblank.png
 If you don't have a Pokemon, then go to the E3 Building.
 They have repurposed the Student Button Room to the Pokemon Initiation Room.
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-28 21 0
+28 21 0 0
 res/npcsprite/npcSprite6.png
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-28 22 0
+28 22 0 0
 res/npcsprite/npcSpriteblank.png
 Hello there student.
 This is G2 building, where all the battling takes place.
@@ -152,11 +152,11 @@ Make sure you've got all your Pokemons ready.
 Head up the staircase to begin the challenge!
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-31 21 0
+31 21 0 0
 res/npcsprite/npcSprite6.png
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-31 22 0
+31 22 0 0
 res/npcsprite/npcSpriteblank.png
 Your objective is to fight your way through as many Trainers as possible.
 The opposition's party is randomized per battle.
@@ -164,20 +164,26 @@ You must utilize your knowledge of Pokemon typing to win.
 Good luck.
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-40 34 2
+40 34 2 0
 res/npcsprite/npcSprite8.png
 Hi. I'm working on this midterm essay on Scientific Socialism.
 It is interesting that this subject still exists in 2069, but here we are!
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-25 14 2
+25 14 2 0
 res/npcsprite/npcSprite8.png
 Your Pokemon is healed after every battle, so don't hesitate to go all out!
-Though remember to press the healing button before entering the next room.
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-6 17 1
-res/npcsprite/npcSprite9.png
+38 23 3 0
+res/npcsprite/npcSprite13.png
+By default, your opponent's Pokemons will be completely random!
+Therefore, knowing type effectiveness and switching Pokemons in and out appropriately is crucial.
+The longer your win streak is, the more statisfying you know?
+NPC_DIALOGUE_END
+MAP_NEXT_NPC
+6 17 1 0
+res/npcsprite/npcSprite11.png
 Hello student. My Discrete Math class is currently having their exams.
 They are an excellent group of students, so I think they will all score 10.
 Even if I made them prove quantum computing theorems using recursive algorithms.
@@ -185,7 +191,7 @@ And I trust that they all won't cheat.
 Oh wait where did I leave my laptop?
 NPC_DIALOGUE_END
 MAP_NEXT_NPC
-20 27 2
+20 27 2 0
 res/npcsprite/npcSprite5.png
 Oh hey. Small talk here.
 The university ran out of money.
@@ -193,11 +199,22 @@ Therefore they decided to convert the upper floors into a mixed reality arena fo
 Kind of a weird way to generate income. But hey if it works then it works.
 Though I'm not sure if the money mostly comes from public sales or increasing students' "HOC LAI" fee.
 NPC_DIALOGUE_END
+MAP_NEXT_NPC
+31 11 3 0
+res/npcsprite/npcSprite12.png
+Once you enter this room, the only way you are getting out is by losing a battle.
+Your high scores would reset of course, but you can go back to exploring and changing Pokemons.
+Afterall, it is impossible to win forever.
+NPC_DIALOGUE_END
 NPC_DATA_STOP
 WARP_NEXT_TILE
 27 35 0 32 17
 WARP_NEXT_TILE
 28 35 0 33 17
+WARP_NEXT_TILE
+27 8 5 12 22
+WARP_NEXT_TILE
+28 8 5 12 22
 WARP_DATA_STOP
 INTER_NEXT_TILE
 5 16
